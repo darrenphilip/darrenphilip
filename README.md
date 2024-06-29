@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
 
 A student studying Information Systems in Indonesia
 
@@ -6,7 +6,7 @@ A student studying Information Systems in Indonesia
 
 - Private projects that will be uploaded on github mainly using electron
 
-**I love working with**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=I+love+working+with)](https://git.io/typing-svg)
 
 <div display="flex">
   
@@ -17,14 +17,14 @@ A student studying Information Systems in Indonesia
   
 </div>
 
-### 🌱 I’m learning
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=I'm+Learning)](https://git.io/typing-svg)
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/>
   
 </div>
 
-### 💻 Operating System Familiarity
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Operating+Systems+Familiarity)](https://git.io/typing-svg)
 
 <div display="flex">
   
@@ -33,7 +33,7 @@ A student studying Information Systems in Indonesia
   
 </div>
 
-### 📫 How to reach me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=How+to+reach+me)](https://git.io/typing-svg)
 
 <div display="flex">
   <a href="[https://www.linkedin.com/in/codewithbernard/](https://discordapp.com/users/378496316453683200)">
