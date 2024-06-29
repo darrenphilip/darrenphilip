@@ -1,3 +1,5 @@
+<div display="flex" justify-content="center" align-items="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
 
 A student studying Information Systems in Indonesia
@@ -46,4 +48,7 @@ A student studying Information Systems in Indonesia
   <a href="[https://www.linkedin.com/in/codewithbernard/](https://discordapp.com/users/378496316453683200)">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+</div>
+
+  
 </div>
