@@ -7,7 +7,7 @@ A student studying Information Systems in Indonesia
 - Private projects that will be uploaded on github mainly using electron
 
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=I+love+working+with%)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=I+love+working+with:)](https://git.io/typing-svg)
 
 <div display="flex">
   
