@@ -15,6 +15,7 @@
 
 <br>
 <br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=I+love+working+with:)](https://git.io/typing-svg)
 
 <div display="flex">
@@ -27,6 +28,7 @@
 
 <br>
 <br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=I'm+Learning:)](https://git.io/typing-svg)
 
 <div display="flex">
@@ -36,6 +38,7 @@
 
 <br>
 <br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Operating+Systems+Familiarity:)](https://git.io/typing-svg)
 
 <div display="flex">
@@ -47,6 +50,7 @@
 
 <br>
 <br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=How+to+reach+me:)](https://git.io/typing-svg)
 
 <div display="flex">
