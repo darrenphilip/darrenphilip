@@ -2,14 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
 
-A student studying Information Systems in Indonesia
+<h3 align="center">
+  A student studying Information Systems in Indonesia
+</h3>
 
 ### 🔭 I’m working on
 
-- Private projects that will be uploaded on github mainly using electron
+<h4 align="center">
+  - Private projects that will be uploaded on github mainly using electron
+</h4>
+
 
 <br>
-
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=I+love+working+with:)](https://git.io/typing-svg)
 
 <div display="flex">
@@ -21,7 +26,7 @@ A student studying Information Systems in Indonesia
 </div>
 
 <br>
-
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=I'm+Learning:)](https://git.io/typing-svg)
 
 <div display="flex">
@@ -30,7 +35,7 @@ A student studying Information Systems in Indonesia
 </div>
 
 <br>
-
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Operating+Systems+Familiarity:)](https://git.io/typing-svg)
 
 <div display="flex">
@@ -41,7 +46,7 @@ A student studying Information Systems in Indonesia
 </div>
 
 <br>
-
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=How+to+reach+me:)](https://git.io/typing-svg)
 
 <div display="flex">
