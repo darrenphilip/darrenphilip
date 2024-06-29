@@ -1,6 +1,10 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
 
-Student studying Information Systems in Indonesia
+A student studying Information Systems in Indonesia
+
+### 🔭 I’m working on
+
+- Private projects that will be uploaded on github mainly using electron
 
 **I love working with**
 
@@ -12,10 +16,6 @@ Student studying Information Systems in Indonesia
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Next JS"/>
   
 </div>
-
-### 🔭 I’m working on
-
-- Private projects that will be uploaded on github mainly using electron
 
 ### 🌱 I’m learning
 
@@ -31,4 +31,12 @@ Student studying Information Systems in Indonesia
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   
+</div>
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="[https://www.linkedin.com/in/codewithbernard/](https://discordapp.com/users/378496316453683200)">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </div>
