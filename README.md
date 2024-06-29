@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+Student studying Information Systems in Indonesia
 
 **I love working with**
 
@@ -20,7 +20,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="[https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)" alt="Electron"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/>
   
 </div>
 
